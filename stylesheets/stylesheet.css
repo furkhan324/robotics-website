@@ -125,7 +125,8 @@ a {
   background-color: #414141;
   height: 6em;
   width: 100%;
-  overflow: scroll;
+  overflow-x: hidden;
+  overflow-y: scroll;
 }
 .main-content pre {
   padding: 0.8rem;
